@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "picture": "https://www.kfc.co.th/Content/BrandSite/category/tile/desk/th-TH_tile-lg-2.jpg",
+      "name": "kfc",
+      "price": "199",
+      "stock": "2"
+    },
+    {
+      "id": 2,
+      "picture": "https://www.cotrpro.com/wp-content/uploads/2021/07/226491415_4181180041936994_7736421450278263846_n-819x1024.jpg",
+      "name": "kfc 2",
+      "price": "259",
+      "stock": "1"
+    },
+    {
+      "id": 3,
+      "picture": "https://media-cdn.tripadvisor.com/media/photo-s/1c/b1/fe/23/kfc-chips-and-dips.jpg",
+      "name": "kfc 3",
+      "price": "399",
+      "stock": "5"
+    },
+    {
+      "id": 4,
+      "picture": "https://www.cotrpro.com/wp-content/uploads/2021/10/246781904_4431149793606683_726054244419634552_n.jpg",
+      "name": "kfc 4",
+      "price": "299",
+      "stock": "3"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
